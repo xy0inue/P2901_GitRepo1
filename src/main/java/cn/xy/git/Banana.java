@@ -6,6 +6,7 @@ public class Banana {
 		
 		
 		System.out.println("香蕉");
+		System.out.println("香蕉11");
 	}
 	
 }
